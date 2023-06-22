@@ -77,3 +77,4 @@ For any inquiries or questions, please contact ramazan20khan@gmail.com.
 ---
 
 Feel free to customize and modify the `README.md` file according to your project's specific details and requirements.# WhackAMole
+# WhackAMole
