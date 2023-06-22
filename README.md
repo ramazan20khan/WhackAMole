@@ -26,7 +26,7 @@ To run the Whack-a-Mole application, make sure you have Flutter installed on you
 git clone https://github.com/ramazan20khan/whackamole.git
 ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory: 
 
 ```
 cd whackamole
